@@ -1,4 +1,4 @@
-# Data-Driven Stock Analysis: Organizing, Cleaning, and Visualizing Market Trends
+# Data-Driven Stock Analysis
 
 ## 1. Project Overview
 
@@ -21,7 +21,7 @@ The project implements an end-to-end data analytics workflow using Python for da
 
 ---
 
-## 3. Business Use Cases
+## 3. Use Cases
 
 1. Stock Performance Ranking  
    - Identify top gainers and losers yearly and monthly  
@@ -29,7 +29,7 @@ The project implements an end-to-end data analytics workflow using Python for da
 2. Market Overview  
    - Understand overall market sentiment using green vs red stock distribution  
 
-3. Risk Assessment  
+3. Volatility Analysis
    - Identify high-risk stocks using volatility analysis  
 
 4. Sector Analysis  
